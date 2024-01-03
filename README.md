@@ -1,0 +1,14 @@
+# m52xqins-user 13 TP1A.220624.014 M526BXXU3CWH4 release-keys
+- manufacturer: samsung
+- platform: lahaina
+- codename: m52xq
+- flavor: m52xqins-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: M526BXXU3CWH4
+- tags: release-keys
+- fingerprint: samsung/m52xqins/m52xq:11/RP1A.200720.012/M526BXXU3CWH4:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: m52xqins-user-13-TP1A.220624.014-M526BXXU3CWH4-release-keys
+- repo: samsung_m52xq_dump
